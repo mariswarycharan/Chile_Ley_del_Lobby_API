@@ -3,7 +3,5 @@ python-dotenv
 langchain-community
 faiss-cpu
 langchain_google_genai
-fastapi
-uvicorn
 starlette 
 pydantic
